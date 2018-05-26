@@ -1,0 +1,47 @@
+﻿Aviation
+
+["Anise Seed", "Cardamom", "Coriander", "Juniper", "Lavender", "Orange Peel", "Sarsaparilla"]
+
+Beefeater
+
+["Almond", "Angelica Root", "Angelica Seed", "Coriander Seed", "Juniper", "Lemon Peel", "Liquorice Root", "Orange Peel", "Orris Root"]
+
+Bols Genever
+
+["Angelica Root", "Ginger", "Hops", "Juniper", "Liquorice"]
+
+Bombay Sapphire
+
+["Almonds", "Angelica", "Cassia", "Cubeb", "Coriander", "Grains of Paradise", "Lemon", "Liquorice", "Juniper", "Orris Root"]
+
+The Botanist
+
+["Angelica", "Apple Mint", "Birch", "Bog Myrtle leaves", "Cassia bark", "Chamomile", "Cinnamon", "Coriander", "Creeping Thistle flowers", "Elderflower", "Gorse flowers", "Heather flowers", "Hawthorn flowers", "Juniper", "Lady’s Bedstraw flowers", "Lemon", "Lemon peel", "Liquorice", "Meadow Sweet", "Orange", "Orris root", "Peppermint", "Mugwort leaves", "Red Clover flowers", "Sweet Cicely leaves", "Tansy Thyme leaves", "Water Mint leaves", "White Clover", "Wood Sage leaves"]
+
+Caorunn Gin
+
+["Angelica", "Bog Myrtle", "Cassia Bark", "Coriander Seed", "Coul Blush Apple", "Dandelion Leaf", "Heather", "Juniper", "Lemon Peel", "Orange Peel", "Rowan Berry"]
+
+Hayman's Old Tom Gin
+
+["Angelica", "Cassia Bark", "Cinnamon", "Coriander", "Juniper", "Lemon peel", "Liquorice", "Nutmeg", "Orange peel", "Orris root"]
+
+Hendrick's Gin
+
+["Angelica Root", "Caraway Seed", "Chamomile", "Coriander", "Cubeb", "Elderflower", "Grains of Paradise", "Juniper", "Lemon Peel", "Orange Peel", "Orris Root", "Yarrow"]
+
+Monkey 47 (41 botanicals)
+
+["Acacia", "Acorus Calamus", "Almond", "Angelica", "Bitter Orange", "Blackberry", "Cardamom", "Cassia", "Chamomile", "Cinnamon", "Citron Verbena", "Cloves", "Coriander", "Cranberries", "Cubeb", "Dog Rose", "Elderflower", "Ginger", "Grains Of Paradise", "Hawthorne Berries", "Hibiscus Abelmoshus", "Hibiscus Syriacus", "Honeysuckle", "Jasmine", "Juniper", "Kaffir Lime", "Lavender", "Lemon", "Lemon Balm", "Lemongrass", "Liquorice", "Lingonberries", "Mondara Didyma", "Nutmeg", "Orris Root", "Pimento", "Pomelo", "Rose Hip", "Sage", "Sloe", "Spruce"]
+
+Napue Gin
+
+["Angelica", "Birch leaves", "Coriander Seed", "Cranberry", "Juniper", "Lemon Peel", "Lime peel", "Meadowsweet", "Sea buckthorn"]
+
+Plymouth Gin
+
+["Angelica", "Cardamom Pods", "Coriander", "Dried Lemon", "Juniper", "Orris Root", "Orange Peel"]
+
+Tangueray No.10
+
+["Chamomile", "Coriander", "Juniper", "Lime", "Orange", "White Grapefruit"]
