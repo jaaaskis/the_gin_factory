@@ -7,6 +7,6 @@ The main goal here was to create a visually pleasing page following web design p
 The design was the most important part of the project, but we decided to do some functionality to it too. Total time spent on this was 3 weeks.
 
 ## To-Do List
--[] refactor the .js
--[] remove double carousel and make it responsive
--[] refactor the html
+-[ ] refactor the .js
+-[ ] remove double carousel and make it responsive
+-[ ] refactor the html
